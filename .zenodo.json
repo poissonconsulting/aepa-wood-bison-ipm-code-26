@@ -1,5 +1,6 @@
 {
   "title": "Analysis code for 'An integrated population model to estimate ungulate demographic rates from camera data: A case study with wood bison'",
+  "description": "Analysis code for the paper 'An integrated population model to estimate ungulate demographic rates from camera data: A case study with wood bison'. The integrated population model (IPM) estimates the abundance and demographic rates of the Ronald Lake wood bison herd from remote camera data and aerial survey data. Spatial and temporal correlation between camera events is accounted for with a Gaussian process regression with a squared-exponential covariance structure. The sensitivity of the estimates to the priors on the initial abundance, the initial stage proportions, and adult female survival is assessed with seven alternative prior scenarios. All models are Bayesian and are fitted in Stan through the embr and smbr2 R packages. The data are archived separately on Zenodo (doi:10.5281/zenodo.24407090).",
   "upload_type": "software",
   "license": "Apache-2.0",
   "creators": [
