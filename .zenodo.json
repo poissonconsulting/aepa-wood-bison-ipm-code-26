@@ -1,0 +1,14 @@
+{
+  "title": "Analysis code for 'An integrated population model to estimate ungulate demographic rates from camera data: A case study with wood bison'",
+  "upload_type": "software",
+  "license": "Apache-2.0",
+  "creators": [
+    {"name": "Hill, Nicole", "affiliation": "Poisson Consulting Ltd.", "orcid": "0000-0002-7623-2153"}
+  ],
+  "contributors": [
+    {"name": "Alberta Environment and Protected Areas", "type": "RightsHolder"}
+  ],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.24407090", "relation": "references", "resource_type": "dataset"}
+  ]
+}
